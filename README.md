@@ -4,8 +4,6 @@
 This library addresses performance concerns and resolves issues commonly faced in Compose LazyList implementations. 
 It comes with built-in support for drag-and-drop functionality, making it a versatile solution for dynamic UIs.
 
-![ComposeRecyclerView](https://github.com/canopas/compose-recyclerview/assets/98312779/5d34dce0-dc5d-44ee-86fe-e0540bdbe753)
-
 
 ## Benefits
 
@@ -18,11 +16,6 @@ It comes with built-in support for drag-and-drop functionality, making it a vers
 - **Multi-Item Type Support:** Easily handle multiple item types within the same RecyclerView, enhancing the versatility of your UI.
 
 
-```gradle
- implementation 'com.canopas:compose_recyclerview:<latest-version>'
-```
-
-
 ## Sample Usage
 
 Integrating **ComposeRecyclerView** into your Android app is a breeze! Follow these simple
@@ -31,8 +24,7 @@ steps to get started:
 
 ## ComposeRecyclerView in Action: Creating Complex UIs with Drag-and-Drop
 
-
-
+https://github.com/gitproject09/ComposeRecyclerView
 
 
 ## Acknowledgments
